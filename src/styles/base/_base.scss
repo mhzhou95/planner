@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('/public/img/background-test.jpg') no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+  background-color:  #c41e3a;
+  min-height: 100%; 
+}
+
+form {
+  padding: 1rem;
+}
+form button {
+  margin: 1rem 0px;
+}

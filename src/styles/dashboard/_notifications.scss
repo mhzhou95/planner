@@ -1,0 +1,28 @@
+.notifications {
+  background-color: white;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  list-style: none;
+  display: flex;
+}
+
+.notification-header {
+  text-align: center;
+}
+
+.notification-item {
+  list-style: none;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+  font-size: 0.9rem;
+}
+
+.notification-name {
+  font-style: italic;
+}
+
+.notification-time {
+  font-size: 0.8rem;
+  color: lighten(black, 40%)
+}

@@ -1,0 +1,31 @@
+.nav-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  background-color:black;
+  color: white;
+}
+
+.nav-wrapper a {
+  text-decoration: none;
+  color:white;
+  padding: 0.5rem;
+}
+
+#home-link {
+  display: inline-flex;
+  margin-top: 1.5rem;
+}
+
+.nav-link{
+  display: inline-flex;
+  margin: 0.5rem;
+}
+#nav-link-out{
+  cursor: pointer;
+}
+
+#initials-link {
+  border-radius: 0.5rem;
+  background-color: maroon;
+  padding: 0.5rem;
+}

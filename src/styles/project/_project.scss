@@ -1,0 +1,43 @@
+.project-summary{
+  padding: 1rem;
+  background-color: white;
+  margin: 1rem;
+  width: 20rem;
+  text-align:center;
+}
+
+.project-summary-seperate {
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+  margin: 1rem auto;
+  width: 20rem;
+}
+
+.project-list-link{ 
+  text-decoration: none;
+  color: black;
+}
+
+.project-title{
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.project-content{
+  font-size: 1.1rem;
+}
+
+.project-name {
+  font-size: 0.9rem;
+  color: lighten(black,40%)
+}
+
+.name {
+  font-style: italic;
+}
+
+.project-time {
+  font-size: 0.8rem;
+  color: lighten(black,40%)
+}
